@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 222,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/27015.ico",
     "slug": "cs-constrix-27015-constrix-cs-1-6-game-server",
     "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-15": 182
+      "2023-07-15": 208
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "forum.constrix.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forum-constrix-org-constrix-forum",
-    "status": "down",
-    "uptime": "64.31%",
-    "uptimeDay": "64.31%",
-    "uptimeWeek": "64.31%",
-    "uptimeMonth": "64.31%",
-    "uptimeYear": "64.31%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "status": "up",
+    "uptime": "55.92%",
+    "uptimeDay": "55.92%",
+    "uptimeWeek": "55.92%",
+    "uptimeMonth": "55.92%",
+    "uptimeYear": "55.92%",
+    "time": 664,
+    "timeDay": 664,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-07-15": 62
+      "2023-07-15": 88
     }
   }
 ]
