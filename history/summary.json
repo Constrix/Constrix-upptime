@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-15": 344
+      "2023-07-15": 354
     }
   },
   {
@@ -42,12 +42,12 @@
     "url": "forum.constrix.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forum-constrix-org-constrix-forum",
-    "status": "up",
-    "uptime": "67.14%",
-    "uptimeDay": "67.14%",
-    "uptimeWeek": "67.14%",
-    "uptimeMonth": "67.14%",
-    "uptimeYear": "67.14%",
+    "status": "down",
+    "uptime": "67.98%",
+    "uptimeDay": "67.98%",
+    "uptimeWeek": "67.98%",
+    "uptimeMonth": "67.98%",
+    "uptimeYear": "67.98%",
     "time": 6774,
     "timeDay": 6774,
     "timeWeek": 6774,
