@@ -9,11 +9,6 @@ sites:
     url: cs.constrix.org:27015
   - name: forum.constrix.org (Constrix Forum)
     url: forum.constrix.org
-    expectedStatusCodes:
-      - 502
-      - 404
-      - 503
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
