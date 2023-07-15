@@ -1,22 +1,22 @@
 [
   {
     "name": "Constrix Official Website",
-    "url": "https://constrix",
-    "icon": "https://icons.duckduckgo.com/ip3/constrix.ico",
+    "url": "https://constrix.org",
+    "icon": "https://icons.duckduckgo.com/ip3/constrix.org.ico",
     "slug": "constrix-official-website",
-    "status": "down",
-    "uptime": "2.52%",
-    "uptimeDay": "2.52%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.67%",
+    "uptimeDay": "1.67%",
+    "uptimeWeek": "1.67%",
+    "uptimeMonth": "1.67%",
+    "uptimeYear": "1.67%",
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-07-15": 0
+      "2023-07-15": 3
     }
   }
 ]
