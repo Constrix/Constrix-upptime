@@ -5,6 +5,15 @@ repo: Constrix-upptime # The name of this repository
 sites:
   - name: https://constrix.org (Constrix Official Website)
     url: https://constrix.org
+  - name: cs.constrix:27015 (Constrix Cs 1.6 Game Server)
+    url: cs.constrix.org:27015
+  - name: forum.constrix (Constrix Forum)
+    url: https://forum.constrix.org
+    expectedStatusCodes:
+      - 502
+      - 404
+      - 503
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
