@@ -16,7 +16,7 @@ status-website:
   cname: status.constrix.org
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/138226524?s=200&v=4
-  name: Constrix
+  name: Constrix - Status page
   introTitle: "**Constrix** status page"
   introMessage: Here is a status page for Constrix. with uptime response time information.
   navbar:
