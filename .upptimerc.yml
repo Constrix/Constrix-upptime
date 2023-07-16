@@ -5,9 +5,9 @@ repo: Constrix-upptime # The name of this repository
 sites:
   - name: constrix.org (Constrix Official Website)
     url: constrix.org
-  - name: cs.constrix:27015 (Constrix Cs 1.6 Game Server)
+  - name: cs.constrix.org:27015 (Constrix Cs 1.6 Game Server)
     check: "udp-ping"
-    url: 52.77.253.56
+    url: cs.constrix.org
     port: 27015
   - name: forum.constrix.org (Constrix Forum)
     url: forum.constrix.org
