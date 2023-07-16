@@ -10,32 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 207,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 230,
+    "timeDay": 213,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "forum.constrix.org (Constrix Forum)",
-    "url": "forum.constrix.org",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "forum-constrix-org-constrix-forum",
-    "status": "down",
-    "uptime": "13.46%",
-    "uptimeDay": "2.65%",
-    "uptimeWeek": "13.46%",
-    "uptimeMonth": "13.46%",
-    "uptimeYear": "13.46%",
-    "time": 6774,
-    "timeDay": 12140,
-    "timeWeek": 6774,
-    "timeMonth": 6774,
-    "timeYear": 6774,
-    "dailyMinutesDown": {
-      "2023-07-16": 529,
-      "2023-07-15": 983
-    }
   }
 ]
