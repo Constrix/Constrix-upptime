@@ -6,7 +6,6 @@ sites:
   - name: constrix.org (Constrix Official Website)
     url: constrix.org
   - name: cs.constrix.org (Cs 1.6 Game server)
-    port: 27015
     url: 52.77.253.56
 
 status-website:
