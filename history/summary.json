@@ -10,31 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 232,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 235,
+    "timeDay": 230,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
     "name": "cs.constrix.org (Cs 1.6 Game server)",
-    "url": "cs.constrix.org",
+    "url": "52.77.253.56",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cs-constrix-org-cs-1-6-game-server",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 43,
     "timeDay": 43,
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {
-      "2023-07-16": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
