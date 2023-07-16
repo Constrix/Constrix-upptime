@@ -6,7 +6,7 @@ sites:
   - name: constrix.org (Constrix Official Website)
     url: constrix.org
   - name: cs.constrix.org:27015 (Constrix Cs 1.6 Game Server)
-    check: "udp-ping"
+    check: "tcp-ping"
     url: cs.constrix.org
     port: 27015
   - name: forum.constrix.org (Constrix Forum)
