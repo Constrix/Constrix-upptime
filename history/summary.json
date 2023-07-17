@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "constrix-org-constrix-official-website",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
-    "time": 237,
-    "timeDay": 226,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
-    "dailyMinutesDown": {
-      "2023-07-17": 37
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 238,
+    "timeDay": 235,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.constrix.org (Constrix blog Website)",
@@ -25,18 +23,34 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog-constrix-org-constrix-blog-website",
     "status": "up",
-    "uptime": "97.81%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 219,
-    "timeDay": 235,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
-    "dailyMinutesDown": {
-      "2023-07-17": 37
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 226,
+    "timeDay": 240,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "mirror.constrix.org (Constrix resources)",
+    "url": "mirror.constrix.org",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mirror-constrix-org-constrix-resources",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 772,
+    "timeDay": 772,
+    "timeWeek": 772,
+    "timeMonth": 772,
+    "timeYear": 772,
+    "dailyMinutesDown": {}
   }
 ]
