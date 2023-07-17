@@ -7,6 +7,8 @@ sites:
     url: constrix.org
   - name: blog.constrix.org (Constrix blog Website)
     url: blog.constrix.org
+  - name: mirror.constrix.org (Constrix resources)
+    url: mirror.constrix.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
